@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2 align="center">Welcome to my profile!</h2>
+
+<p align="center"><strong>Hi 👋 I'm Ivan Shulubin</strong></p>
 
 <!--
 **bebcor/bebcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
