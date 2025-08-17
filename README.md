@@ -1,5 +1,5 @@
 <div align="right">
-  <img height="160" width="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RsdXNhY2wxODcwdDl3Z3Qyd2U3YTMwejBpZ2RqcnF5ZGhudHFyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8D4tNIQSHPhvjxurs/giphy.gif" alt="IvanShulubin">
+  <img height="160" width="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ3OXB2dGN6NjcxZXZmaWIxMWY0eWlra3owNDN2cnFyaHFxZHVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy7hkkPipg7phwk/giphy.gif" alt="IvanShulubin">
 </div>
 
 <h2 align="center">Welcome to my profile!</h2>
