@@ -12,7 +12,12 @@
 👥 Responsible team player who enjoys learning and solving complex challenges  
 ✨ Open to collaborations where I can contribute value while growing my skills  
 ✉️ Connect with me: 
-Email:shulubin.ia@gmail.com | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/bebcorparetion)
+<span style="vertical-align: middle;">
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shulubin.ia@gmail.com)
+</span>
+<span style="vertical-align: middle;">
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/bebcorparetion)
+</span>
 
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left">
