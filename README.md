@@ -15,12 +15,19 @@
 
 <h3 align="left">🛠️ Tech Stack</h3>
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 
