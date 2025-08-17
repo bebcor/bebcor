@@ -11,7 +11,9 @@
 🔍 Passionate about backend development and exploring new technologies  
 👥 Responsible team player who enjoys learning and solving complex challenges  
 ✨ Open to collaborations where I can contribute value while growing my skills  
-✉️ Connect with me: [Email](mailto:shulubin.ia@gmail.com) | [Telegram](https://t.me/bebcorparetion)
+✉️ Connect with me: 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shulubin.ia@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/bebcorparetion)
 
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left">
