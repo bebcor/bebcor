@@ -8,7 +8,7 @@
 
 🐍 Junior Python Developer | Software Engineering student at BSTU named after V.G. Shukhov  
 💻 My stack: Backend Developer (Python) | Django & Flask | PostgreSQL | Git    
-📚 Additional education: "Python Developer" (Hexlet) | "Python Basics" (Moscow School of Programming)
+📚 Additional education: "Python Developer" (Hexlet) | "Python Basics" (Moscow School of Programming)  
 🚀 Built 4 practical projects during studies (check pinned repositories)  
 🔍 Passionate about backend development and exploring new technologies  
 👥 Responsible team player who enjoys learning and solving complex challenges 
