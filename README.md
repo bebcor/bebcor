@@ -7,7 +7,7 @@
 <p align="center"><strong>Hi 👋 I'm Ivan Shulubin</strong></p>
 
 🐍 Junior Python Developer | Software Engineering student at BSTU named after V.G. Shukhov  
-💻 My stack: Backend Developer (Python) | Django & Flask | PostgreSQL | Git
+💻 My stack: Backend Developer (Python) | Django & Flask | PostgreSQL | Git    
 🚀 Built 4 practical projects during studies (check pinned repositories)  
 🔍 Passionate about backend development and exploring new technologies  
 👥 Responsible team player who enjoys learning and solving complex challenges 
