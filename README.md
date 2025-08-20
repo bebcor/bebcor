@@ -10,7 +10,8 @@
 🚀 Built 4 practical projects during studies (check pinned repositories)  
 🔍 Passionate about backend development and exploring new technologies  
 👥 Responsible team player who enjoys learning and solving complex challenges  
-✨ Open to collaborations where I can contribute value while growing my skills  
+✨ Open to collaborations where I can contribute value while growing my skills
+💻 My stack: Backend Developer (Python) | Django & Flask | PostgreSQL | Git
 <h3 align="left">📫 Contact me</h3>
 <p align="left">
   <a href="mailto:shulubin.ia@gmail.com">
